@@ -11,6 +11,7 @@ A full-stack clone of the Airbnb platform that allows users to browse, view, and
 - **Design Tools**: Figma
 
 ## UI/UX Design Planning
+
 ### Design Goals
 - Create an intuitive booking flow
 - Maintain visual consistency
@@ -61,6 +62,7 @@ A full-stack clone of the Airbnb platform that allows users to browse, view, and
 - Speeds Up Iteration and Feedback
 
 ## Project Roles and Responsibilities
+
 | Role             | Responsibilities                                                 |
 |------------------|------------------------------------------------------------------|
 | Project Manager  | Manages timeline, communication, and deliverables                |
@@ -73,6 +75,7 @@ A full-stack clone of the Airbnb platform that allows users to browse, view, and
 | Scrum Master     | Facilitate standups, manage agile boards, remove blockers        |
 
 ## UI Component Patterns
+
 ### Navbar
 - Logo
 - Search bar
